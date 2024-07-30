@@ -1,4 +1,4 @@
-![Sample Image](https://github.com/TuringCollegeSubmissions/sbudvy-FE.3/blob/main/public/preview.png)
+![Sample Image](https://github.com/sbudvytis/Habit-tracking-application/blob/main/public/preview.png)
 
 # Habit tracking application
 
@@ -12,19 +12,6 @@ This is a simple web application designed for tracking your daily habits. Users 
   - Stop and revoke habits (when stopping, user does not lose the progress made so far, but any further interactions with the habit is stopped)
   - Delete habits (removes all the progress)
 - User is not able to mark habits in the future days
-
-## Getting started
-
-1. Clone the repository or download the source code files:
-
-```bash
-git clone https://github.com/TuringCollegeSubmissions/sbudvy-FE.3.git
-```
-2. Install all the packages:
-
-```bash
-npm ci
-```
 
 ## Usage
 
